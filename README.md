@@ -35,5 +35,7 @@ The following animation demonstrates the application functionality:
 
 ![screenshot](assets/screenshot.png)
 
-## Review
+Links
+https://github.com/akirillychev/Work-Day-Scheduler
+https://akirillychev.github.io/Work-Day-Scheduler/
 
